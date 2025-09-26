@@ -1,0 +1,91 @@
+C:\Users\user\source\repos\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\Proiect_PAW_IvanOanaGeorgiana.exe.config
+C:\Users\user\source\repos\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\Proiect_PAW_IvanOanaGeorgiana.exe
+C:\Users\user\source\repos\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\Proiect_PAW_IvanOanaGeorgiana.pdb
+C:\Users\user\source\repos\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.FormLogin.resources
+C:\Users\user\source\repos\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.Properties.Resources.resources
+C:\Users\user\source\repos\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.exe
+C:\Users\user\source\repos\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.pdb
+C:\Users\user\source\repos\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.FormDashboard.resources
+C:\Users\user\source\repos\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.UserControlClienti.resources
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\Proiect_PAW_IvanOanaGeorgiana.exe.config
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\Proiect_PAW_IvanOanaGeorgiana.exe
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\Proiect_PAW_IvanOanaGeorgiana.pdb
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.csproj.AssemblyReference.cache
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.FormDashboard.resources
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.FormLogin.resources
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.Properties.Resources.resources
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.UserControlClienti.resources
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.User_Control.UserControlComenzi.resources
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.User_Control.UserControlFacturi.resources
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.csproj.GenerateResource.cache
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.csproj.CoreCompileInputs.cache
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.exe
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.pdb
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Buffers.dll
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Memory.dll
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Text.Json.dll
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.ValueTuple.dll
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Buffers.xml
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Memory.xml
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Text.Json.xml
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.ValueTuple.xml
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.csproj.CopyComplete
+C:\Users\Stefan Dumitru\Downloads\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.FormRegister.resources
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\Proiect_PAW_IvanOanaGeorgiana.exe.config
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\Proiect_PAW_IvanOanaGeorgiana.exe
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\Proiect_PAW_IvanOanaGeorgiana.pdb
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Buffers.dll
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Memory.dll
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Text.Json.dll
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.ValueTuple.dll
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Buffers.xml
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Memory.xml
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Text.Json.xml
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\bin\Debug\System.ValueTuple.xml
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.csproj.AssemblyReference.cache
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.FormDashboard.resources
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.FormRegister.resources
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.FormLogin.resources
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.Properties.Resources.resources
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.UserControlClienti.resources
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.User_Control.UserControlComenzi.resources
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.User_Control.UserControlFacturi.resources
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.csproj.GenerateResource.cache
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.csproj.CoreCompileInputs.cache
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.csproj.CopyComplete
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.exe
+C:\Users\Stefan Dumitru\3D Objects\Proiect_PAW_IvanOanaGeorgiana\obj\Debug\Proiect_PAW_IvanOanaGeorgiana.pdb
